@@ -1,4 +1,3 @@
-Loo app.py järgmise sisuga:
 from flask import Flask, jsonify
 from datetime import datetime
 
